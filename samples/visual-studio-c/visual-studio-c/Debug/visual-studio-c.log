@@ -1,0 +1,43 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  demoCAD.c
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(249): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(282): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(288): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(294): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(299): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(304): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(310): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(315): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(320): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(325): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(330): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(335): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(340): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(345): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(350): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(356): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(362): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(373): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(558): warning C4133: “函数”: 从“void (__cdecl *)(OBJECT,int,int,int,int,int)”到“operation”的类型不兼容
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(562): warning C4133: “函数”: 从“void (__cdecl *)(OBJECT,int,int,int,int,int)”到“operation”的类型不兼容
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(566): warning C4133: “函数”: 从“void (__cdecl *)(OBJECT,int,int,int,int,int)”到“operation”的类型不兼容
+c:\users\云微\desktop\graphics\graphics\samples\visual-studio-c\visual-studio-c\democad.c(571): warning C4133: “函数”: 从“void (__cdecl *)(OBJECT,int,int,int,int,int)”到“operation”的类型不兼容
+  visual-studio-c.vcxproj -> C:\Users\云微\Desktop\graphics\graphics\samples\visual-studio-c\Debug\visual-studio-c.exe
